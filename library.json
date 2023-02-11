@@ -1,0 +1,21 @@
+{
+  "name": "ESP Network Manager",
+  "version": "0.1.0",
+  "description": "(DEV BETA) Custom lib to implement network connection with html setup page",
+  "keywords": "planet, happiness, people",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaskForceSpace/ESP-NetworkManager"
+  },
+  "authors": [
+    {
+      "name": "Karolis Dailidonis",
+      "email": "mail@karolisdailidonis.de",
+      "url": "https://karolisdailidonis.de",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
